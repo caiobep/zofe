@@ -2,3 +2,23 @@
   text-indent: -99999em
   font-size: 1px
   color: transparent
+
+.accessibility-skip-to-content
+  height: 1px
+  width: 1px
+  overflow: hidden
+  position: absolute
+  margin: 0px
+
+  &:focus
+    height: auto
+    width: auto
+    clip: auto
+    z-index: 1
+    top: 0px
+    line-height: 2em
+    padding: 1em
+    background-color: $zofe-yellow
+    font-weight: bold
+    text-decoration: none
+    color: $main-font-color
