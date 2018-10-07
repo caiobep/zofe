@@ -35,7 +35,7 @@ Um VALEUZÃO ao editor Gui Grazziotin, que topou ir com a gente nessa nova fase.
 [0:20:20](#t=0:20:20){: .timer} [Hacktoberfest](https://hacktoberfest.digitalocean.com/)<br>
 [0:22:17](#t=0:22:17){: .timer} [NordicJS](http://nordicjs.com/)<br>
 [0:22:23](#t=0:22:23){: .timer} (Até o momento deste, a apresentação da Isa ainda não foi publicada)<br>
-[0:22:23](#t=0:22:23){: .timer} [NordicJS](http://nordicjs.com/)<br>
+[0:22:23](#t=0:22:23){: .timer} [Entrevista da Isa no Fun Fun Function](https://www.youtube.com/watch?v=F_QdJ-spWgg)<br>
 [0:32:57](#t=0:32:57){: .timer} Ajude o ZOFE com sugestões ;)<br>
 [0:33:42](#t=0:33:42){: .timer} [Netlify](https://www.netlify.com/?utm=zofe)<br>
 [0:36:00](#t=0:36:00){: .timer} [Gatsby](https://www.gatsbyjs.org/?utm=zofe)<br>
