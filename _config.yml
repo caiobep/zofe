@@ -1,8 +1,8 @@
 plugins:           ["jekyll-paginate", "jekyll-lunr-js-search"]
-paginate:          5
+paginate:          10
 paginate_path:     "/posts/page:num/"
-permalink:         "/posts/:title/"
-url:               "http://zofe.com.br"
+# permalink:         "/posts/:title/"
+url:               "https://zofe.com.br"
 markdown:          "Kramdown"
 excerpt_separator: <!-- excerpt -->
 encoding: UTF-8
