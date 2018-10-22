@@ -21,7 +21,7 @@ Aproveite e vem com a gente!
 
 <!-- excerpt -->
 
-[0:00:53](#t=0:00:53){: .timer} [Puxando o papo da "refatoração"do ZOFE](https://github.com/zofepod/zofe/pull/128)<br />>
+[0:00:53](#t=0:00:53){: .timer} [Puxando o papo da "refatoração"do ZOFE](https://github.com/zofepod/zofe/pull/128)<br />
 [0:01:57](#t=0:01:57){: .timer} [Jekyll](https://jekyllrb.com/)<br />
 [0:01:52](#t=0:01:52){: .timer} [Gatsby](https://www.gatsbyjs.org/?utm=zofe.com.br)<br />
 [0:04:15](#t=0:04:15){: .timer} [Post de anúncio do Gatsby 2.0](https://www.gatsbyjs.org/blog/2018-09-17-gatsby-v2/)<br />
