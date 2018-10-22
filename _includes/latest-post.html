@@ -1,4 +1,4 @@
-{% for post in paginator.posts limit:1 %}
+{% for post in site.posts limit:1 %}
 <div class="latest-post u-full-width"{% if post.mosaico_g %} style="background-image: url({{ post.mosaico_g }})"{% endif %}>
   <article class="row">
     <header class="latest-post-header">

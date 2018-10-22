@@ -5,7 +5,7 @@ layout: default
 {% include latest-post.html %}
 
 <div class="episodes container">
-  {% for post in paginator.posts offset:1 %}
+  {% for post in site.posts offset:1 %}
   <article class="row">
     <header class="episode-header">
       <a href="{{ post.url }}" class="episode-date">{{ post.date | date: "%d/%m/%y" }}</a>
@@ -25,17 +25,4 @@ layout: default
   </article>
   {% endfor %}
 
-  <section class="pagination">
-    {% if paginator.previous_page %}
-      {% if paginator.previous_page == 1 %}
-        <a class="pagination-prev" href="/"><img src="/assets/images/icons/arrow.svg" alt="Episódios mais antigos"></a>
-      {% else %}
-        <a class="pagination-prev" href="/page{{paginator.previous_page}}"><img src="/assets/images/icons/arrow.svg" alt="Episódios mais antigos"></a>
-      {% endif %}
-    {% endif %}
-
-    {% if paginator.next_page %}
-      <a class="pagination-next" href="/page{{paginator.next_page}}"><img src="/assets/images/icons/arrow.svg" alt="Episódios mais recentes"></a>
-    {% endif %}
-  </section><!-- /.pagination -->
 </div><!-- /#content -->
