@@ -7,5 +7,9 @@ yarn-error.log
 /public
 .DS_Store
 
+# Gatsby env vars
+.env.development
+.env.production
+
 # Local script
 zofedev.sh
