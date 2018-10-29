@@ -1,5 +1,6 @@
 import React from 'react'
 import ZofeLink from '@components/ZofeLink'
+import Search from '@components/Search'
 import logo from '@images/zofe-logo.png'
 import twitter from '@images/social-icons/twitter.svg'
 import facebook from '@images/social-icons/facebook.svg'
@@ -13,6 +14,8 @@ const Header = ({ siteTitle }) => (
       </ZofeLink>
 
       <nav className="main-menu">
+        <Search />
+        <hr />
         <ul>
           <li>
             <ZofeLink to="/">Home</ZofeLink>
