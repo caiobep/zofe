@@ -31,9 +31,9 @@ E no meio do episódio tem um brinde SUPER legal. Vale a pena ouvir pra decifrar
 [0:29:57](#t=0:29:57){: .timer} [Teoria de Multiverso](https://en.wikipedia.org/wiki/Multiverse)<br />
 [0:036:40](#t=0:036:40){: .timer} Sobre ser sênior<br />
 [0:47:30](#t=0:47:30){: .timer} Sugestões e links<br />
-[0:47:50](#t=0:47:50){: .timer} [5 Tips to Write Better Conditionals in JavaScript]<br />(https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)<br />
+[0:47:50](#t=0:47:50){: .timer} [5 Tips to Write Better Conditionals in JavaScript](https://scotch.io/bar-talk/5-tips-to-write-better-conditionals-in-javascript)<br />
 [0:53:37](#t=0:53:37){: .timer} [Github actions: CI do github?](https://github.com/features/actions)<br />
-[0:54:47](#t=0:54:47){: .timer} [MS open sourced DOS; "will it run Doom?"]<br />(https://github.com/Microsoft/MS-DOS/issues/7)<br />
+[0:54:47](#t=0:54:47){: .timer} [MS open sourced DOS; "will it run Doom?"](https://github.com/Microsoft/MS-DOS/issues/7)<br />
 [0:55:55](#t=0:55:55){: .timer} [Github Universe](https://githubuniverse.com/)<br />
 [0:56:11](#t=0:56:11){: .timer} [Github: Suggested Changes](https://blog.github.com/#suggested-changes-public-beta)<br />
 
